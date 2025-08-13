@@ -10,13 +10,8 @@ int main(){
     scanf("%d",&Contador);
     iCont=1;
     while(iCont <= Contador){
-        
-        
         a=a+b;
         b=a-b;
-        
-       
-       
         iCont++;
        
 
@@ -25,3 +20,4 @@ int main(){
     getchar();
     getchar();
 }
+
